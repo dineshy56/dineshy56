@@ -70,8 +70,8 @@
 <h2>🤝 Connect With Me</h2>
 
 <p>
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/dineshkumar-yadav-54607378/">LinkedIn</a> | 
+  <a href="mailto:dineshy56@gmail.com">Email</a>
 </p>
 
 ---
